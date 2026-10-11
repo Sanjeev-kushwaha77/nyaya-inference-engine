@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+<div align="center">
+
 # Nyaya Logic as an Inference Engine
 
 ### A Rule-Based Expert System Inspired by Indian Knowledge Systems
+
+<br/>
 
 **Sanjeev Kushwaha**  
 T.Y.B.Sc. Computer Science — Semester V
@@ -14,11 +17,15 @@ Asst. Prof. Sini. V.
 
 **Academic Year: 2026–27**
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Educational-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)
-![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=flat-square)
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](.)
+[![Type](https://img.shields.io/badge/Type-Educational-blue?style=flat-square)](.)
+[![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)](.)
+[![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=flat-square)](.)
+
+</div>
 
 ---
 
@@ -88,16 +95,16 @@ The two traditions — Nyaya inference and rule-based AI — share a recognisabl
 
 ### 3.1 Architecture
 
-```
+```text
 ┌──────────────────────┐
-│   User Input         │
+│     User Input       │
 │   (initial facts)    │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
 │   Working Memory     │
-│   (fact set)         │
+│      (fact set)      │
 └──────────┬───────────┘
            │
            ▼
@@ -108,21 +115,21 @@ The two traditions — Nyaya inference and rule-based AI — share a recognisabl
            │
            ▼
 ┌──────────────────────┐
-│   Rule Matching      │
-│   (antecedents vs.   │
-│    facts)            │
+│    Rule Matching     │
+│  (antecedents vs.    │
+│       facts)         │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
 │   Inference Engine   │
-│   (forward chaining) │
+│  (forward chaining)  │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│   Output             │
-│   (derived facts +   │
+│       Output         │
+│  (derived facts +    │
 │    terminal facts)   │
 └──────────────────────┘
 ```
@@ -183,7 +190,7 @@ A set of initial facts entered by the user as comma-separated names (e.g., `smok
 
 ### 5.3 Pseudocode
 
-```
+```text
 ALGORITHM Nyaya_Inference_Engine
 
 1.  Initialize Working Memory    = {}
@@ -422,13 +429,13 @@ The project does **not** claim that Nyaya can be reduced to a computer program. 
 
 ## 11. Repository Structure
 
-```
+```text
 nyaya-inference-engine/
 │
-├── .pdf    Full project report
-├── nyaya_engine.py                 Python source code
-├── README.md                       This file
-└── TEST_CASES.md                   Detailed test documentation
+├── IKS_REPORT_SANJEEV_KUSHWAHA.pdf    Full project report
+├── nyaya_engine.py                    Python source code
+├── README.md                          This file
+└── TEST_CASES.md                      Detailed test documentation
 ```
 
 ---
@@ -443,7 +450,7 @@ Smt. Devkiba Mohansinhji Chauhan College of Commerce & Science, Silvassa
 **Guide:** Asst. Prof. Sini. V.  
 **Academic Year:** 2026–27
 
-[![GitHub](https://img.shields.io/badge/GitHub-prashantkumardas014-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanjeev-kushwaha77)
+[![GitHub](https://img.shields.io/badge/GitHub-Sanjeev--kushwaha77-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanjeev-kushwaha77)
 
 ---
 
@@ -457,12 +464,12 @@ Smt. Devkiba Mohansinhji Chauhan College of Commerce & Science, Silvassa
 
 ---
 
+<div align="center">
+
 *This project is submitted as part of academic coursework for the*  
 **Indian Knowledge Systems (IKS)** *component of the*  
 *T.Y.B.Sc. Computer Science programme.*
 
 **For educational purposes only.**
-=======
-# nyaya-inference-engine
-Nyaya Inference Engine IKS Project
->>>>>>> d04541e1314d058760f1ff84fecf3caccaf6a249
+
+</div>
